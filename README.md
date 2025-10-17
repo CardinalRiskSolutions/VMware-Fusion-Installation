@@ -44,7 +44,13 @@ Click "Release 13.6.4" (Highest stable release at the time of documentation)
 
 <img width="1722" height="1253" alt="Image" src="https://github.com/user-attachments/assets/de7904b8-c890-48fc-b367-670dbd9552cd" />
 
-Click "Terms and Condition" and waste many hours of your life reading how another software company plans to milk you dry, or just click the checkbox next and move on 
+Click "Terms and Condition" and waste many hours of your life reading how another software company plans to milk you dry, or just click the checkbox next and move on..
+
+<img width="1787" height="1272" alt="Image" src="https://github.com/user-attachments/assets/c227f48e-25f6-4d48-ba4d-335efc4db84f" />
+
+At some point, this screen comes up but its really late and I can't remember.  Fill it out with the least amount of information it will accept. 
+
+
 
 
 
