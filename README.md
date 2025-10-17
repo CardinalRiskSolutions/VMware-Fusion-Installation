@@ -54,6 +54,8 @@ At some point, this screen comes up but its really late and I can't remember.  F
 
 FINALLY we have reached the end of our adventures through Broadcom Dashboard.  Click this little cloud button and begin the VMware Fusion download
 
+<img width="1955" height="864" alt="Image" src="https://github.com/user-attachments/assets/ceff068c-b6e6-4ddb-a684-d3458c465d37" />
+
 
 
 
