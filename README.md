@@ -18,6 +18,8 @@ https://www.microsoft.com/en-us/software-download/windows11arm64
 
 (First select Windows 11 (multi edition for ARM-64) from the dropdown menu, then Download Now)
 
+<img width="1862" height="1702" alt="Image" src="https://github.com/user-attachments/assets/6b9c2dfc-27a9-4917-93ee-c5bf932efb8e" />
+
 
 
 
