@@ -42,6 +42,12 @@ Click "VMware Fusion 13"
 
 Click "Release 13.6.4" (Highest stable release at the time of documentation)
 
+<img width="1722" height="1253" alt="Image" src="https://github.com/user-attachments/assets/de7904b8-c890-48fc-b367-670dbd9552cd" />
+
+Click "Terms and Condition" and waste many hours of your life reading how another software company plans to milk you dry, or just click the checkbox next and move on 
+
+
+
 
 
 
