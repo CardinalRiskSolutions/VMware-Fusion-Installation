@@ -32,6 +32,7 @@ Navigate to the "My Downloads" tab on left, then click the Free software downloa
 
 <img width="1782" height="1208" alt="Image" src="https://github.com/user-attachments/assets/822e133d-2ac8-4a99-8615-df04257aac8f" />
 
+
 Click "VMware Fusion"
 
 <img width="1742" height="1250" alt="Image" src="https://github.com/user-attachments/assets/fd9b3625-edaa-4f23-ab31-f1c152cfffc5" />
