@@ -50,6 +50,8 @@ Click "Terms and Condition" and waste many hours of your life reading how anothe
 
 At some point, this screen comes up but its really late and I can't remember.  Fill it out with the least amount of information it will accept. 
 
+<img width="1904" height="1132" alt="Image" src="https://github.com/user-attachments/assets/faa6fcbd-7f2b-4536-8cba-b399510f0a9b" />
+
 
 
 
