@@ -48,9 +48,13 @@ Click "Terms and Condition" and waste many hours of your life reading how anothe
 
 <img width="1787" height="1272" alt="Image" src="https://github.com/user-attachments/assets/c227f48e-25f6-4d48-ba4d-335efc4db84f" />
 
-At some point, this screen comes up but its really late and I can't remember.  Fill it out with the least amount of information it will accept. 
+At some point, this screen comes up but its really late and I can't remember.  Fill it out with the least amount of information it will accept, marked with an *. Click "I agree" then "Submit"
 
 <img width="1904" height="1132" alt="Image" src="https://github.com/user-attachments/assets/faa6fcbd-7f2b-4536-8cba-b399510f0a9b" />
+
+FINALLY we have reached the end of our adventures through Broadcom Dashboard.  Click this little cloud button and begin the VMware Fusion download
+
+
 
 
 
