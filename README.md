@@ -26,7 +26,11 @@ https://profile.broadcom.com/web/registration
 
 <img width="1962" height="1245" alt="Image" src="https://github.com/user-attachments/assets/0840041e-9b26-4514-8180-1afed9e867a1" />
 
-## 5. Download VMware Fusion software from your Broadcom Dashboard
+## 5. Log in and Download VMware Fusion software from your Broadcom Dashboard
+
+Navigate to the "My Downloads" tab on left, then click the Free software downloads available "HERE"
+
+
 
 
 
