@@ -24,6 +24,9 @@ https://www.microsoft.com/en-us/software-download/windows11arm64
 
 https://profile.broadcom.com/web/registration
 
+<img width="1962" height="1245" alt="Image" src="https://github.com/user-attachments/assets/0840041e-9b26-4514-8180-1afed9e867a1" />
+
+
 
 
 
