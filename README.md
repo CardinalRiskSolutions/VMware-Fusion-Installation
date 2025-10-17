@@ -38,6 +38,13 @@ Click "VMware Fusion"
 
 Click "VMware Fusion 13"
 
+<img width="1740" height="1246" alt="Image" src="https://github.com/user-attachments/assets/8ffff947-b9b8-4d99-886f-e206f6c492dc" />
+
+Click "Release 13.6.4" (Highest stable release at the time of documentation)
+
+
+
+
 
 
 
