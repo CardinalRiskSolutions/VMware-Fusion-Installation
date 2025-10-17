@@ -20,6 +20,12 @@ https://www.microsoft.com/en-us/software-download/windows11arm64
 
 <img width="1862" height="1702" alt="Image" src="https://github.com/user-attachments/assets/6b9c2dfc-27a9-4917-93ee-c5bf932efb8e" />
 
+## 4. Create Broadcom account to access VMware Fusion software download
+
+https://profile.broadcom.com/web/registration
+
+
+
 
 
 
