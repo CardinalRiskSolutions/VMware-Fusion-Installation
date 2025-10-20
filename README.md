@@ -130,6 +130,12 @@ Drag RCPlayer application to your Windows 11 Pro Desktop
 
 Click "Browse"
 
+<img width="2072" height="1325" alt="Image" src="https://github.com/user-attachments/assets/9370c7a6-2f83-42a6-b79f-82920c0bc63d" />
+
+Navigate through USB files until you get to the folder containing the case audio.  Highlight that folder and click "OK"
+
+
+
 
 
 
