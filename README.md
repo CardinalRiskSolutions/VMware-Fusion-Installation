@@ -108,6 +108,10 @@ Click "Connect to Windows" when asked where you would like to connect USB Disk
 
 <img width="2117" height="1334" alt="Image" src="https://github.com/user-attachments/assets/6f51f087-515f-41ec-be73-6e7b3c975c3c" />
 
+### 5. USB drive containing one drive folder will open automatically in Windows 11 Pro pane
+
+
+
 
 
 
