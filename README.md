@@ -64,7 +64,7 @@ FINALLY we have reached the end of our adventures through Broadcom Dashboard.  C
 
 ### 2. "VMware Fusion is an app downloaded from Internet.  Are you sure you want to open it? OPEN!  Enter password and allow admin privileges.
 
-<img width="1017" height="716" alt="Image" src="https://github.com/user-attachments/assets/6a57724d-f031-4934-954f-509455cab2f3" />
+<img width="1017" height="716" alt="Image" src="https://github.com/user-attachments/assets/cab56bfd-e1f8-416b-be0a-388a341694d9" />
 
 
 
