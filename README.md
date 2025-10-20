@@ -1,5 +1,5 @@
 # VMware Fusion Installation
-## Pt.1 Downloading Nessesary Software + Components
+## Pt.1 -Downloading Nessesary Software + Components
 
 ### 1. Purchase Windows 11 Pro Product key
 
@@ -16,7 +16,7 @@ https://www.groupon.com/deals/license-tom-llc-4
 
 https://www.microsoft.com/en-us/software-download/windows11arm64
 
-(First select Windows 11 (multi edition for ARM-64) from the dropdown menu, then Download Now)
+(First open link in Chrome browser (download will not work in Safari), disable any VPN service currently running, select Windows 11 multi edition for ARM-64 from the dropdown menu, Download Now, select US English, then confirm and download. Turn VPN back on only after iso file completely downloads!)
 
 <img width="1862" height="1702" alt="Image" src="https://github.com/user-attachments/assets/6b9c2dfc-27a9-4917-93ee-c5bf932efb8e" />
 
@@ -55,6 +55,10 @@ At some point, this screen comes up but its really late and I can't remember.  F
 FINALLY we have reached the end of our adventures through Broadcom Dashboard.  Click this little cloud button and begin the VMware Fusion download
 
 <img width="1955" height="864" alt="Image" src="https://github.com/user-attachments/assets/ceff068c-b6e6-4ddb-a684-d3458c465d37" />
+
+## Pt.2 -Sorftware Installation and Navigation
+
+### 1. Open VMware Fusion downloaded file
 
 
 
