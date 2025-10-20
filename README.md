@@ -100,6 +100,12 @@ Enter Disk Utility and erase current thumb drive and reformat to FAT32 when it a
 
 ### 3. Right click, eject the thumb drive with one drive folder in it
 
+<img width="923" height="601" alt="Image" src="https://github.com/user-attachments/assets/212b29ee-a8c0-4d84-8ddf-9050c4941f89" />
+
+### 4. Open Windows 11 Pro through VMware Fusion and re insert thumb drive
+
+
+
 
 
 
