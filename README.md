@@ -114,7 +114,12 @@ Open target one drive folder.
 
 <img width="2103" height="1329" alt="Image" src="https://github.com/user-attachments/assets/b56ac740-fb38-460e-82e7-7cdadeb1f5fb" />
 
-double click RCPLayer
+double click RCPLayer folder
+
+<img width="2050" height="1283" alt="Image" src="https://github.com/user-attachments/assets/334b73d5-d293-4bae-8643-3dea97a3a762" />
+
+Drag RCPlayer application to your Windows 11 Pro Desktop
+
 
 
 
