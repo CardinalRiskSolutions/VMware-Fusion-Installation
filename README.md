@@ -122,6 +122,14 @@ Drag RCPlayer application to your Windows 11 Pro Desktop
 
 <img width="2015" height="1331" alt="Image" src="https://github.com/user-attachments/assets/37a2a7b0-7ed8-44e1-858f-4d5ec35cd604" />
 
+## Pt. 4- RCPlayer Audio Access and Extraction
+
+### 1. Open RCPlayer from your Windows 11 Pro desktop
+
+
+
+
+
 
 
 
