@@ -136,7 +136,15 @@ Navigate through USB files until you get to the folder containing the case audio
 
 <img width="2180" height="1343" alt="Image" src="https://github.com/user-attachments/assets/0d3df769-3760-4115-9cb8-58b54af4584b" />
 
-Case audio opens in RCPlayer
+Case audio opens in RCPlayer (You can play the file here)
+
+<img width="2120" height="1418" alt="Image" src="https://github.com/user-attachments/assets/1287cf52-efdf-4357-ade2-34b0c5e3f9b6" />
+
+If this is the audio you're looking to export to WAV format, Click "File" and then "Export Audio"
+
+
+
+
 
 
 
