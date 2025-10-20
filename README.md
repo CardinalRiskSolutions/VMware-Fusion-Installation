@@ -56,11 +56,15 @@ FINALLY we have reached the end of our adventures through Broadcom Dashboard.  C
 
 <img width="1955" height="864" alt="Image" src="https://github.com/user-attachments/assets/ceff068c-b6e6-4ddb-a684-d3458c465d37" />
 
-## Pt.2 -Sorftware Installation and Navigation
+## Pt.2 -Software Installation and Navigation
 
 ### 1. Open VMware Fusion downloaded .dmg file and Install
 
 <img width="1887" height="1109" alt="Image" src="https://github.com/user-attachments/assets/81f1b7c8-4b78-429f-b1dd-b13f6c12aae3" />
+
+### 2. "VMware Fusion is an app downloaded from Internet.  Are you sure you want to open it? OPEN!  Enter password and allow admin privileges.
+
+
 
 
 
