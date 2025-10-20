@@ -126,6 +126,12 @@ Drag RCPlayer application to your Windows 11 Pro Desktop
 
 ### 1. Open RCPlayer from your Windows 11 Pro desktop
 
+<img width="2117" height="1354" alt="Image" src="https://github.com/user-attachments/assets/f768ec43-6486-448e-a606-292b6e7b32c3" />
+
+Click "Browse"
+
+
+
 
 
 
