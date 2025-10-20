@@ -156,6 +156,10 @@ WAV export complete.
 
 <img width="2047" height="1439" alt="Image" src="https://github.com/user-attachments/assets/e3ea97b8-40e9-44ed-b817-db2cec4365bc" />
 
+Close out the Windows 11 Pro window when you are done exporting audio files and navigate to the USB folder you saved the WAV file to on MacOS.  Congrats this WAV file should now be playable on most devices!
+
+
+
 
 
 
