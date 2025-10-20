@@ -58,7 +58,9 @@ FINALLY we have reached the end of our adventures through Broadcom Dashboard.  C
 
 ## Pt.2 -Sorftware Installation and Navigation
 
-### 1. Open VMware Fusion downloaded file
+### 1. Open VMware Fusion downloaded .dmg file and Install
+
+
 
 
 
