@@ -92,6 +92,12 @@ https://www.microsoft.com/en-us/windowsinsider/cleaninstall
 
 Enter Disk Utility and erase current thumb drive and reformat to FAT32 when it asks.
 
+<img width="1740" height="995" alt="Image" src="https://github.com/user-attachments/assets/ce8ee1f7-6097-4b7f-9550-8d5429c0677e" />
+
+### 2. Download and transfer complete folder from one drive to new formatted USB drive
+
+
+
 
 
 
