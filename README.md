@@ -82,7 +82,9 @@ Follow this tuturial provided by Microsoft the preform a clean installation of W
 
 https://www.microsoft.com/en-us/windowsinsider/cleaninstall
 
-### 5. After the install, you now have access to a fully capable Windows machine when running VMware Fusion software! 
+### 5. After the install, you now have access to a fully capable Windows 11 Pro machine when running VMware Fusion software from your Mac!
+
+<img width="2123" height="1417" alt="Image" src="https://github.com/user-attachments/assets/5b8276be-2459-4759-8670-cb1ab37ce671" />
 
 
 
