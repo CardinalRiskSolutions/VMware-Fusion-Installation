@@ -94,7 +94,13 @@ Enter Disk Utility and erase current thumb drive and reformat to FAT32 when it a
 
 <img width="1740" height="995" alt="Image" src="https://github.com/user-attachments/assets/ce8ee1f7-6097-4b7f-9550-8d5429c0677e" />
 
-### 2. Download and transfer complete folder from one drive to new formatted USB drive
+### 2. Download and transfer complete folder from one drive to new formatted USB drive.
+
+<img width="1712" height="975" alt="Image" src="https://github.com/user-attachments/assets/848531b1-72f5-4f42-9e66-7609ae0a41b7" />
+
+### 3. Right click, eject the thumb drive with one drive folder in it
+
+
 
 
 
