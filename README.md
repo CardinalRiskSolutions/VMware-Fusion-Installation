@@ -56,7 +56,7 @@ FINALLY we have reached the end of our adventures through Broadcom Dashboard.  C
 
 <img width="1955" height="864" alt="Image" src="https://github.com/user-attachments/assets/ceff068c-b6e6-4ddb-a684-d3458c465d37" />
 
-## Pt.2 -Software Installation and Navigation
+## Pt.2 -Software Installation
 
 ### 1. Open VMware Fusion downloaded .dmg file from Pt.1 Step 5 and Install
 
@@ -85,6 +85,14 @@ https://www.microsoft.com/en-us/windowsinsider/cleaninstall
 ### 5. After the install, you now have access to a fully capable Windows 11 Pro machine when running VMware Fusion software from your Mac!
 
 <img width="2123" height="1417" alt="Image" src="https://github.com/user-attachments/assets/c8b07681-cbd7-4eab-ae0b-5633c9e78872" />
+
+## Pt.3 -NAvigating Windows through VMware Fusion
+
+### 1. Format a spare thumb drive you have lying around to FAT32 (A format readable by both MacOS and Windows)
+
+Enter Disk Utility and erase current thumb drive and reformat to FAT32 when it asks.
+
+
 
 
 
