@@ -150,10 +150,11 @@ Select the destination folder you want to save the exported WAV audio file to
 
 Export in progress..
 
-
+<img width="2065" height="1344" alt="Image" src="https://github.com/user-attachments/assets/9949de4a-ae52-4196-b398-d93916e96843" />
 
 WAV export complete.
 
+<img width="2047" height="1439" alt="Image" src="https://github.com/user-attachments/assets/e3ea97b8-40e9-44ed-b817-db2cec4365bc" />
 
 
 
