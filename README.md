@@ -142,6 +142,12 @@ Case audio opens in RCPlayer (You can play the file here)
 
 If this is the audio you're looking to export to WAV format, Click "File" and then "Export Audio"
 
+<img width="2069" height="1369" alt="Image" src="https://github.com/user-attachments/assets/230a7c37-9ed9-4051-8399-ce56b6600c87" />
+
+Select the destination folder you want to save the exported WAV audio file to
+
+
+
 
 
 
