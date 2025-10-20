@@ -60,7 +60,7 @@ FINALLY we have reached the end of our adventures through Broadcom Dashboard.  C
 
 ### 1. Open VMware Fusion downloaded .dmg file and Install
 
-
+<img width="1887" height="1109" alt="Image" src="https://github.com/user-attachments/assets/81f1b7c8-4b78-429f-b1dd-b13f6c12aae3" />
 
 
 
