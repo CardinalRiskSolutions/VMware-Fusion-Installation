@@ -110,6 +110,13 @@ Click "Connect to Windows" when asked where you would like to connect USB Disk
 
 ### 5. USB drive containing one drive folder will open automatically in Windows 11 Pro pane
 
+Open target one drive folder.
+
+<img width="2103" height="1329" alt="Image" src="https://github.com/user-attachments/assets/b56ac740-fb38-460e-82e7-7cdadeb1f5fb" />
+
+double click RCPLayer
+
+
 
 
 
