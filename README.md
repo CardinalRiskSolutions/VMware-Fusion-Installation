@@ -68,7 +68,9 @@ FINALLY we have reached the end of our adventures through Broadcom Dashboard.  C
 
 <img width="1269" height="703" alt="Image" src="https://github.com/user-attachments/assets/4c687a68-4a69-44a6-8a49-4dca2e9fa733" />
 
-### 3. Click +New in VMware Fusion program, then drag the Microsoft 11 Pro .iso file for ARM-based PCs downloaded in Pt. 1 Step 3 into the gateway.
+### 3. Click +New in VMware Fusion program, then drag the Microsoft 11 Pro .iso file for ARM-based PCs downloaded in Pt. 1 Step 3 into gateway.
+
+<img width="2198" height="1261" alt="Image" src="https://github.com/user-attachments/assets/50ff83fb-ef1a-4525-83fc-5991331f53a9" />
 
 
 
