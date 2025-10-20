@@ -66,6 +66,10 @@ FINALLY we have reached the end of our adventures through Broadcom Dashboard.  C
 
 <img width="1017" height="716" alt="Image" src="https://github.com/user-attachments/assets/cab56bfd-e1f8-416b-be0a-388a341694d9" />
 
+<img width="1269" height="703" alt="Image" src="https://github.com/user-attachments/assets/4c687a68-4a69-44a6-8a49-4dca2e9fa733" />
+
+
+
 
 
 
