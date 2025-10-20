@@ -104,6 +104,9 @@ Enter Disk Utility and erase current thumb drive and reformat to FAT32 when it a
 
 ### 4. Open Windows 11 Pro through VMware Fusion and re insert thumb drive
 
+Click "Connect to Windows" when asked where you would like to connect USB Disk
+
+<img width="2117" height="1334" alt="Image" src="https://github.com/user-attachments/assets/6f51f087-515f-41ec-be73-6e7b3c975c3c" />
 
 
 
