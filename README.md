@@ -146,6 +146,14 @@ If this is the audio you're looking to export to WAV format, Click "File" and th
 
 Select the destination folder you want to save the exported WAV audio file to
 
+<img width="2057" height="1331" alt="Image" src="https://github.com/user-attachments/assets/5cfe6712-5e32-40b7-ab7a-8dde8dc91850" />
+
+Export in progress..
+
+
+
+WAV export complete.
+
 
 
 
