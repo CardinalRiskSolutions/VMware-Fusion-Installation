@@ -74,7 +74,7 @@ FINALLY we have reached the end of our adventures through Broadcom Dashboard.  C
 
 Congrats! You have now downloaded and installed all nessesary components to run a Windows 11 Pro Virtual Machine from your Apple Silicon powered machine.
 
-### 4. CLick your new Windows 11 machine in VMware Fusion to begin installation.  Refer to your Groupon purchase email from the first Part of this tutorial for the Product Key when it asks.
+### 4. Click your new Windows 11 machine in VMware Fusion to begin installation.  (Refer to your Groupon purchase email from the first Part of this tutorial for the Product Key when it asks.)
 
 Follow this tuturial provided by Microsoft the preform a clean installation of Windows 11 Pro if you need a walk through.  (Remember to select Windows 11 Pro when choosing edition to install or your purchase Product Key (Pt. 1 Step 1), will not work. and ISO file when asked which media to use)
 
