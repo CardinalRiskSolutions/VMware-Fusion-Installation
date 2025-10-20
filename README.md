@@ -134,6 +134,10 @@ Click "Browse"
 
 Navigate through USB files until you get to the folder containing the case audio.  Highlight that folder and click "OK"
 
+<img width="2180" height="1343" alt="Image" src="https://github.com/user-attachments/assets/0d3df769-3760-4115-9cb8-58b54af4584b" />
+
+
+
 
 
 
