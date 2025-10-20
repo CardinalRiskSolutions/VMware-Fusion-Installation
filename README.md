@@ -58,7 +58,7 @@ FINALLY we have reached the end of our adventures through Broadcom Dashboard.  C
 
 ## Pt.2 -Software Installation and Navigation
 
-### 1. Open VMware Fusion downloaded .dmg file and Install
+### 1. Open VMware Fusion downloaded .dmg file from Pt.1 Step 5 and Install
 
 <img width="1887" height="1109" alt="Image" src="https://github.com/user-attachments/assets/81f1b7c8-4b78-429f-b1dd-b13f6c12aae3" />
 
@@ -67,6 +67,10 @@ FINALLY we have reached the end of our adventures through Broadcom Dashboard.  C
 <img width="1017" height="716" alt="Image" src="https://github.com/user-attachments/assets/cab56bfd-e1f8-416b-be0a-388a341694d9" />
 
 <img width="1269" height="703" alt="Image" src="https://github.com/user-attachments/assets/4c687a68-4a69-44a6-8a49-4dca2e9fa733" />
+
+### 3. Click +New in VMware Fusion program, then drag the Microsoft 11 Pro .iso file for ARM-based PCs downloaded in Pt. 1 Step 3 into the gateway.
+
+
 
 
 
